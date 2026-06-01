@@ -11,8 +11,8 @@
 每日或每周推送到你常用的通讯工具（Telegram、Discord、WhatsApp 等），包含：
 
 - 顶级 AI 播客新节目的精华摘要
-- 25 位精选 AI 建造者在 X/Twitter 上的关键观点和洞察
-- AI 公司官方博客的完整文章（Anthropic Engineering、Claude Blog）
+- 30 位精选 AI 建造者在 X/Twitter 上的关键观点和洞察
+- AI 公司官方博客的完整文章（Anthropic Engineering、Claude Blog、OpenAI、Google DeepMind）
 - 所有原始内容的链接
 - 支持英文、中文或双语版本
 
@@ -60,20 +60,25 @@ Skill 使用纯文本 prompt 文件来控制内容的摘要方式。你可以通
 
 ## 默认信息源
 
-### 播客（6个）
+### 播客（9个）
 - [Latent Space](https://www.youtube.com/@LatentSpacePod)
 - [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
 - [No Priors](https://www.youtube.com/@NoPriorsPodcast)
 - [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
 - [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC)
 - [AI & I by Every](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
+- [Lex Fridman Podcast](https://www.youtube.com/@lexfridman)
+- [The TWIML AI Podcast](https://www.youtube.com/@twimlai)
+- [Hard Fork](https://www.youtube.com/@hardfork)
 
-### X 上的 AI 建造者（25位）
-[Andrej Karpathy](https://x.com/karpathy), [Swyx](https://x.com/swyx), [Josh Woodward](https://x.com/joshwoodward), [Kevin Weil](https://x.com/kevinweil), [Peter Yang](https://x.com/petergyang), [Nan Yu](https://x.com/thenanyu), [Madhu Guru](https://x.com/realmadhuguru), [Amanda Askell](https://x.com/AmandaAskell), [Cat Wu](https://x.com/_catwu), [Thariq](https://x.com/trq212), [Google Labs](https://x.com/GoogleLabs), [Amjad Masad](https://x.com/amasad), [Guillermo Rauch](https://x.com/rauchg), [Alex Albert](https://x.com/alexalbert__), [Aaron Levie](https://x.com/levie), [Ryo Lu](https://x.com/ryolu_), [Garry Tan](https://x.com/garrytan), [Matt Turck](https://x.com/mattturck), [Zara Zhang](https://x.com/zarazhangrui), [Nikunj Kothari](https://x.com/nikunj), [Peter Steinberger](https://x.com/steipete), [Dan Shipper](https://x.com/danshipper), [Aditya Agarwal](https://x.com/adityaag), [Sam Altman](https://x.com/sama), [Claude](https://x.com/claudeai)
+### X 上的 AI 建造者（30位）
+[Andrej Karpathy](https://x.com/karpathy), [Swyx](https://x.com/swyx), [Josh Woodward](https://x.com/joshwoodward), [Kevin Weil](https://x.com/kevinweil), [Peter Yang](https://x.com/petergyang), [Nan Yu](https://x.com/thenanyu), [Madhu Guru](https://x.com/realmadhuguru), [Amanda Askell](https://x.com/AmandaAskell), [Cat Wu](https://x.com/_catwu), [Thariq](https://x.com/trq212), [Google Labs](https://x.com/GoogleLabs), [Amjad Masad](https://x.com/amasad), [Guillermo Rauch](https://x.com/rauchg), [Alex Albert](https://x.com/alexalbert__), [Aaron Levie](https://x.com/levie), [Ryo Lu](https://x.com/ryolu_), [Garry Tan](https://x.com/garrytan), [Matt Turck](https://x.com/mattturck), [Zara Zhang](https://x.com/zarazhangrui), [Nikunj Kothari](https://x.com/nikunj), [Peter Steinberger](https://x.com/steipete), [Dan Shipper](https://x.com/danshipper), [Aditya Agarwal](https://x.com/adityaag), [Sam Altman](https://x.com/sama), [Claude](https://x.com/claudeai), [Yann LeCun](https://x.com/ylecun), [Demis Hassabis](https://x.com/demishassabis), [Emad Mostaque](https://x.com/EMostaque), [Harrison Chase](https://x.com/hwchase17), [Greg Brockman](https://x.com/gdb)
 
-### 官方博客（2个）
+### 官方博客（4个）
 - [Anthropic Engineering](https://www.anthropic.com/engineering) — Anthropic 团队的技术深度文章
 - [Claude Blog](https://claude.com/blog) — Claude 的产品公告与更新
+- [OpenAI Research Blog](https://openai.com/news) — OpenAI 的研究成果与产品更新
+- [Google DeepMind Blog](https://deepmind.google/blog/) — Google DeepMind 的研究突破与最新动态
 
 ## 安装
 
