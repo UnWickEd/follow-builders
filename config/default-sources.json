@@ -29,6 +29,21 @@
       "name": "AI & I by Every",
       "rssUrl": "https://anchor.fm/s/ed1f5584/podcast/rss",
       "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    },
+    {
+      "name": "Lex Fridman Podcast",
+      "rssUrl": "https://lexfridman.com/feed/podcast/",
+      "url": "https://www.youtube.com/@lexfridman"
+    },
+    {
+      "name": "The TWIML AI Podcast",
+      "rssUrl": "https://feeds.megaphone.fm/MLN2155636147",
+      "url": "https://www.youtube.com/@twimlai"
+    },
+    {
+      "name": "Hard Fork",
+      "rssUrl": "https://feeds.simplecast.com/6HKOhNgS",
+      "url": "https://www.youtube.com/@hardfork"
     }
   ],
   "blogs": [
@@ -44,6 +59,22 @@
       "type": "scrape",
       "indexUrl": "https://claude.com/blog",
       "articleBaseUrl": "https://claude.com/blog/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "OpenAI Research Blog",
+      "type": "rss",
+      "indexUrl": "https://openai.com/news",
+      "rssUrl": "https://openai.com/news/rss.xml",
+      "articleBaseUrl": "https://openai.com/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Google DeepMind Blog",
+      "type": "rss",
+      "indexUrl": "https://deepmind.google/blog/",
+      "rssUrl": "https://deepmind.google/blog/rss.xml",
+      "articleBaseUrl": "https://deepmind.google/blog/",
       "fetchMethod": "http"
     }
   ],
@@ -72,6 +103,11 @@
     { "name": "Dan Shipper", "handle": "danshipper" },
     { "name": "Aditya Agarwal", "handle": "adityaag" },
     { "name": "Sam Altman", "handle": "sama" },
-    { "name": "Claude", "handle": "claudeai" }
+    { "name": "Claude", "handle": "claudeai" },
+    { "name": "Yann LeCun", "handle": "ylecun" },
+    { "name": "Demis Hassabis", "handle": "demishassabis" },
+    { "name": "Emad Mostaque", "handle": "EMostaque" },
+    { "name": "Harrison Chase", "handle": "hwchase17" },
+    { "name": "Greg Brockman", "handle": "gdb" }
   ]
 }
